@@ -15,25 +15,25 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('../img/picByJonny.jpg');
+  background-image: url('img/picByJonny.jpg');
   min-height: 100%;
 }
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url("../img/books.jpg");
+  background-image: url("img/books.jpg");
   min-height: 400px;
 }
 
 /* Insert image (Educational Resources) */
 .bgimg-V {
-  background-image: url("../img/code.jpg");
+  background-image: url("img/code.jpg");
   min-height: 400px;
 }
 
 /* Third image (Contact) */
 .bgimg-3 {
-  background-image: url("../img/phone.jpg");
+  background-image: url("img/phone.jpg");
   min-height: 400px;
 }
 
